@@ -7,5 +7,4 @@ The project above consists of three main parts:\
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;res10_300x300_ssd_iter_140000.caffemodel file are used to access the DNN model to detect faces.\
 3> Finally everything is put together in the python file facevideo.py which detects, predicts and\
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;faces without mask\
-   https://imgur.com/a/n2fZYj7
       
